@@ -1,3 +1,4 @@
+This repository accompanies the paper:
 # Human-Directed Human–AI Co-Evolution through Externalized Cognitive Continuity (2025)
 
 **Author:** Seungyun Song (2025)
@@ -6,6 +7,10 @@
 
 **DOI (Zenodo):** https://doi.org/10.5281/zenodo.17778738  
 **Zenodo record:** https://zenodo.org/records/17778738
+**Summary post(Medium):** https://medium.com/@ssp2025.research/human-directed-human-ai-co-evolution-through-externalized-cognitive-continuity-succ-445f77e6b37d
+
+This repository will host reference materials and implementation notes as the project evolves.
+Detailed usage patterns will be published separately.
 
 ## Abstract
 Human-directed human–AI co-evolution enabled by externalized cognitive continuity (logs, rules, and structured re-injection), forming a practical time-axis for iterative collaboration.

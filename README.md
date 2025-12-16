@@ -10,8 +10,8 @@ This repository accompanies the paper:
 
 **Summary post(Medium):** https://medium.com/@ssp2025.research/human-directed-human-ai-co-evolution-through-externalized-cognitive-continuity-succ-445f77e6b37d
 
-This repository will host reference materials and implementation notes as the project evolves.
-Detailed usage patterns will be published separately.
+This repository serves as a reference companion to the paper.
+Implementation details and usage patterns will be released in subsequent updates.
 
 ## Abstract
 Human-directed human–AI co-evolution enabled by externalized cognitive continuity (logs, rules, and structured re-injection), forming a practical time-axis for iterative collaboration.

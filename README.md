@@ -7,6 +7,7 @@ This repository accompanies the paper:
 
 **DOI (Zenodo):** https://doi.org/10.5281/zenodo.17778738  
 **Zenodo record:** https://zenodo.org/records/17778738
+
 **Summary post(Medium):** https://medium.com/@ssp2025.research/human-directed-human-ai-co-evolution-through-externalized-cognitive-continuity-succ-445f77e6b37d
 
 This repository will host reference materials and implementation notes as the project evolves.

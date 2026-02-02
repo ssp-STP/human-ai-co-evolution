@@ -27,7 +27,7 @@ In short:
 
 ## Paper (PDF)
 - DOI landing page: https://doi.org/10.5281/zenodo.17778738  
-- Direct PDF: https://zenodo.org/records/17778738/files/Song2025_SUCC_ver3.pdf?download=1## Framework and Architecture
+- Direct PDF: https://zenodo.org/records/17778738/files/Song2025_SUCC_ver3.pdf?download=1
 
 ## Citation
 ### BibTeX

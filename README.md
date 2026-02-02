@@ -2,6 +2,7 @@ This repository accompanies the paper:
 # Human-Directed Human–AI Co-Evolution through Externalized Cognitive Continuity (2025)
 
 **Author:** Seungyun Song (2025)
+**ORCID:** https://orcid.org/0009-0001-2177-0042
 
 **year:** 2025
 
@@ -9,6 +10,7 @@ This repository accompanies the paper:
 **Zenodo record:** https://zenodo.org/records/17778738
 
 **Summary post(Medium):** https://medium.com/@ssp2025.research/human-directed-human-ai-co-evolution-through-externalized-cognitive-continuity-succ-445f77e6b37d
+**LinkedIn** https://kr.linkedin.com/in/seungyun-song-735395393
 
 This repository serves as a reference companion to the paper.
 Status: Code will be added in future updates.

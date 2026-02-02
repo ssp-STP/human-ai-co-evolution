@@ -16,9 +16,18 @@ Status: Code will be added in future updates.
 ## Abstract
 Human-directed human–AI co-evolution enabled by externalized cognitive continuity (logs, rules, and structured re-injection), forming a practical time-axis for iterative collaboration.
 
+## Framework and Architecture 
+This work introduces **SUCC (Syntropic Unified Cognitive Continuum)** as a **human-directed Human–AI co-evolution framework** designed to enable long-term cognitive continuity across otherwise stateless interaction sessions.
+
+Within the SUCC framework, **ECC (Externalized Cognitive Continuity)** serves as the **core architectural mechanism** that *operationalizes* continuity through user-controlled external artifacts. These include dialogue logs, explicit rule sets, temporal checkpoints, and structured re-injection procedures that reconstruct stable cognitive context at session initialization.
+
+In short:
+- **SUCC** specifies the *framework-level principles, roles, and iterative processes* governing sustained Human–AI co-evolution.
+- **ECC** provides the *architectural implementation* that realizes cognitive continuity through externalized, reproducible memory structures.
+
 ## Paper (PDF)
 - DOI landing page: https://doi.org/10.5281/zenodo.17778738  
-- Direct PDF: https://zenodo.org/records/17778738/files/Song2025_SUCC_ver3.pdf?download=1
+- Direct PDF: https://zenodo.org/records/17778738/files/Song2025_SUCC_ver3.pdf?download=1## Framework and Architecture
 
 ## Citation
 ### BibTeX

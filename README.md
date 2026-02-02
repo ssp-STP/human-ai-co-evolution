@@ -12,7 +12,7 @@ This repository accompanies the paper:
 
 **Summary post(Medium):** https://medium.com/@ssp2025.research/human-directed-human-ai-co-evolution-through-externalized-cognitive-continuity-succ-445f77e6b37d
 
-**LinkedIn** https://kr.linkedin.com/in/seungyun-song-735395393
+**LinkedIn:** https://kr.linkedin.com/in/seungyun-song-735395393
 
 This repository serves as a reference companion to the paper.
 Status: Code will be added in future updates.

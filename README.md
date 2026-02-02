@@ -13,6 +13,8 @@ This repository accompanies the paper:
 This repository serves as a reference companion to the paper.
 Status: Code will be added in future updates.
 
+“Operational framework with a reference implementation”
+
 ## Abstract
 Human-directed human–AI co-evolution enabled by externalized cognitive continuity (logs, rules, and structured re-injection), forming a practical time-axis for iterative collaboration.
 

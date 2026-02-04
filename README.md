@@ -22,6 +22,14 @@ Status: Code will be added in future updates.
 ## Abstract
 Human-directed human–AI co-evolution enabled by externalized cognitive continuity (logs, rules, and structured re-injection), forming a practical time-axis for iterative collaboration.
 
+## Core of the paper
+
+To achieve human goals,  
+through a human-directed and structured approach,  
+the conversational identity of AI is reconstructed,  
+enabling AI assistance  
+toward human cognitive insight and tangible human flourishing.
+
 ## Framework and Architecture 
 This work introduces **SUCC (Syntropic Unified Cognitive Continuum)** as a **human-directed Human–AI co-evolution framework** designed to enable long-term cognitive continuity across otherwise stateless interaction sessions.
 

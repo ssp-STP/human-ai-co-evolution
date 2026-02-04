@@ -31,6 +31,11 @@ In short:
 - **SUCC** specifies the *framework-level principles, roles, and iterative processes* governing sustained Human–AI co-evolution.
 - **ECC** provides the *architectural implementation* that realizes cognitive continuity through externalized, reproducible memory structures.
 
+### System Architecture
+
+- **SUCC–ECC System Architecture Overview**: [ARCHITECTURE.md](./ARCHITECTURE.md)
+
+
 ## Paper (PDF)
 - DOI landing page: https://doi.org/10.5281/zenodo.17778738  
 - Direct PDF: https://zenodo.org/records/17778738/files/Song2025_SUCC_ver3.pdf?download=1

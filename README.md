@@ -2,6 +2,10 @@
 
 This repository accompanies the paper:
 
+> **Note:** This repository does not introduce a new conceptual framework
+> separate from the paper. All terminology and system boundaries are
+> **authoritatively defined** by the associated Zenodo preprint (2025).
+
 ## SUCC-ECC Overview
 
 **SUCC-ECC** is a **system-level architecture** that integrates  

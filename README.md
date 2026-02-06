@@ -25,6 +25,8 @@ without relying on internal model state or fine-tuning.
 >  
 > SUCC-ECC is the **author-defined system architecture introduced in this paper**.
 >  In the paper, SUCC is presented as the framework and ECC as the external memory architecture; this repository uses "SUCC-ECC" as a convenient compound term for the integrated system described in the paper.
+>
+> The phrase “Externalized Cognitive Continuity” is introduced in the title of the associated Zenodo preprint (2025) to denote a **specific** continuity mechanism realized through externally stored, human-controlled cognitive artifacts.
 > 
 > It is **not a general term**, nor a sub-framework of any external ECC taxonomy.
 >  

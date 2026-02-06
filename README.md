@@ -20,7 +20,8 @@ without relying on internal model state or fine-tuning.
 > **Terminology note**
 >  
 > SUCC-ECC is the **author-defined system architecture introduced in this paper**.
->  
+>  In the paper, SUCC is presented as the framework and ECC as the external memory architecture; this repository uses "SUCC-ECC" as a convenient compound term for the integrated system described in the paper.
+> 
 > It is **not a general term**, nor a sub-framework of any external ECC taxonomy.
 >  
 > All references to “SUCC”, “ECC”, and “SUCC-ECC” in this repository follow the

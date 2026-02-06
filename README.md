@@ -1,5 +1,30 @@
-This repository accompanies the paper:
 # Human-Directed Human–AI Co-Evolution through Externalized Cognitive Continuity (2025)
+
+This repository accompanies the paper:
+
+## SUCC-ECC Overview
+
+**SUCC-ECC** is a **system-level architecture** that integrates  
+**SUCC (Syntropic Unified Cognitive Continuum)** and  
+**ECC (Externalized Cognitive Continuity)** as **complementary components**.
+
+It is **not a subcategory of ECC**.  
+Rather, **ECC functions as the operational memory layer within the SUCC-directed system**.
+
+SUCC defines governance, roles, and workflows.  
+ECC implements reproducible, externalized memory substrates.
+
+Together, they form **SUCC-ECC**, enabling persistent human–AI co-evolution
+without relying on internal model state or fine-tuning.
+
+> **Terminology note**
+>  
+> SUCC-ECC is the **author-defined system architecture introduced in this paper**.
+>  
+> It is **not a general term**, nor a sub-framework of any external ECC taxonomy.
+>  
+> All references to “SUCC”, “ECC”, and “SUCC-ECC” in this repository follow the
+> definitions established in the associated Zenodo preprint (2025).
 
 **Author:** Seungyun Song (2025)
 

@@ -1,5 +1,12 @@
 # Human-Directed Human–AI Co-Evolution through Externalized Cognitive Continuity (2025)
 
+SUCC–ECC is a system-level architecture for persistent human–AI co-evolution through externalized cognitive continuity.
+
+SUCC is the human-centered framework; ECC is the operational continuity mechanism
+via externally stored, human-controlled cognitive artifacts.
+
+Preprint (Zenodo, 2025-12-01): DOI 10.5281/zenodo.17778738
+
 This repository accompanies the paper:
 
 > **Note:** This repository does not introduce a new conceptual framework

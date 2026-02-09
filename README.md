@@ -13,6 +13,19 @@ This repository accompanies the paper:
 > separate from the paper. All terminology and system boundaries are
 > **authoritatively defined** by the associated Zenodo preprint (2025).
 
+> ⚠️ **Note on Rule Design and Stability**
+>
+> This framework assumes **layered rule design**, not flat rule lists.
+>
+> In practice, most instability and unexpected behavior arise **not from rule content**,  
+> but from **rule placement and priority conflicts**.
+>
+> Rules should therefore be:
+> - structured in explicit layers,
+> - assigned clear precedence,
+> - and validated iteratively in interaction **with the model**, not written unilaterally.
+
+
 ## SUCC-ECC Overview
 
 **SUCC-ECC** is a **system-level architecture** that integrates  

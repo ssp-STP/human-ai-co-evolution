@@ -15,7 +15,8 @@ Status: Reference materials are available; implementation artifacts will be adde
 
 > _“Operational framework with a reference implementation”_
 
-SUCC–ECC is a system-level architecture for persistent human–AI co-evolution through externalized cognitive continuity, where SUCC defines the human-centered framework and ECC provides operational continuity via externally stored, human-controlled cognitive artifacts.
+SUCC-ECC is a system-level architecture for persistent human–AI co-evolution
+through externalized cognitive continuity (ECC: Externalized Cognitive Continuity), where SUCC defines the human-centered framework and ECC provides operational continuity via externally stored, human-controlled cognitive artifacts.
 
 > **Note:** This repository does not introduce a new conceptual framework
 > separate from the paper. All terminology and system boundaries are

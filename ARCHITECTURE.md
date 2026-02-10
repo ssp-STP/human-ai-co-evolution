@@ -1,5 +1,7 @@
 # SUCC–ECC System Architecture Overview
 
+© 2025 Seungyun Song. See LICENSE/NOTICE.
+
 **SUCC (Syntropic Unified Cognitive Continuum)** is a **framework** for designing long-term human–AI cognitive continuity as a unified system.
 
 **ECC (Externalized Cognitive Continuity)** is an **architecture** in which continuity is maintained via **externalized memory artifacts** (e.g., logs, explicit rule sets, checkpoints, and structured re-injection), rather than relying on internal long-term model state.
@@ -29,3 +31,4 @@ This approach:
   doi          = {10.5281/zenodo.17778738},
   url          = {https://doi.org/10.5281/zenodo.17778738},
 }
+

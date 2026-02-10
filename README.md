@@ -95,11 +95,26 @@ In short:
 - Direct PDF: https://zenodo.org/records/17778738/files/Song2025_SUCC_ver3.pdf?download=1
 
 ## Citation
-Please use the following citation when referencing this work.
+Please use the following citation when referencing the paper.
 
 Song, S. (2025). Human-Directed Human-AI Co-Evolution through Externalized Cognitive Continuity. Zenodo. https://doi.org/10.5281/zenodo.17778738
 
-Reuse is subject to the CC BY-NC-ND 4.0 license.
+---
+
+## Software / Repository DOI
+
+This GitHub repository is archived and versioned via Zenodo.
+
+- **Concept DOI (latest software version)**  
+  https://doi.org/10.5281/zenodo.18586739
+
+- **Release v1.0.0 (this repository snapshot)**  
+  https://doi.org/10.5281/zenodo.18586739
+
+This DOI refers to the **software and documentation in this repository**,  
+not the paper PDF.
+
+Reuse of both the paper and the repository snapshot is subject to the CC BY-NC-ND 4.0 license.
 
 ### BibTeX
 ```bibtex

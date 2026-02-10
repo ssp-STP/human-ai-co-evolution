@@ -111,11 +111,12 @@ Song, S. (2025). Human-Directed Human-AI Co-Evolution through Externalized Cogni
 
 This GitHub repository is archived and versioned via Zenodo.
 
-- **Concept DOI (latest software version)**  
+- Concept DOI (all versions, resolves to the latest):
   https://doi.org/10.5281/zenodo.18586739
 
-- **Release v1.0.0 (this repository snapshot)**  
-  https://doi.org/10.5281/zenodo.18586739
+- Versioned releases:
+  - v1.0.0: https://doi.org/10.5281/zenodo.18586739
+  - v1.0.1: https://doi.org/10.5281/zenodo.18589688
 
 This DOI refers to the **software and documentation in this repository**,  
 not the paper PDF.

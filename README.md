@@ -4,7 +4,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17778738.svg)](https://doi.org/10.5281/zenodo.17778738)
 
 **Software / Repository DOI**
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18586739.svg)](https://doi.org/10.5281/zenodo.18586739)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18586738.svg)](https://doi.org/10.5281/zenodo.18586738)
 
 **Author:** Seungyun Song  
 **year:** 2025  
@@ -112,7 +112,7 @@ Song, S. (2025). Human-Directed Human-AI Co-Evolution through Externalized Cogni
 This GitHub repository is archived and versioned via Zenodo.
 
 - Concept DOI (all versions, resolves to the latest):
-  https://doi.org/10.5281/zenodo.18586739
+  https://doi.org/10.5281/zenodo.18586738
 
 - Versioned releases:
   - v1.0.0: https://doi.org/10.5281/zenodo.18586739

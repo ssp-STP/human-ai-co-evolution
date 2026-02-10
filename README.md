@@ -1,11 +1,20 @@
 # Human-Directed Human–AI Co-Evolution through Externalized Cognitive Continuity (2025)
 
-SUCC–ECC is a system-level architecture for persistent human–AI co-evolution through externalized cognitive continuity.
+**Author:** Seungyun Song (2025)
+**ORCID:** https://orcid.org/0009-0001-2177-0042
+**year:** 2025
+**DOI (Zenodo):** https://doi.org/10.5281/zenodo.17778738  
 
-SUCC is the human-centered framework; ECC is the operational continuity mechanism
-via externally stored, human-controlled cognitive artifacts.
+**Summary post(Medium):** https://medium.com/@ssp2025.research/human-directed-human-ai-co-evolution-through-externalized-cognitive-continuity-succ-445f77e6b37d
 
-Preprint (Zenodo, 2025-12-01): DOI 10.5281/zenodo.17778738
+**LinkedIn:** https://kr.linkedin.com/in/seungyun-song-735395393
+
+This repository serves as a reference companion to the paper.  
+Status: Reference materials are available; implementation artifacts will be added in future updates.
+
+> _“Operational framework with a reference implementation”_
+
+SUCC–ECC is a system-level architecture for persistent human–AI co-evolution through externalized cognitive continuity, where SUCC defines the human-centered framework and ECC provides operational continuity via externally stored, human-controlled cognitive artifacts.
 
 This repository accompanies the paper:
 
@@ -53,23 +62,6 @@ without relying on internal model state or fine-tuning.
 > All references to “SUCC”, “ECC”, and “SUCC-ECC” in this repository follow the
 > definitions established in the associated Zenodo preprint (2025).
 
-**Author:** Seungyun Song (2025)
-
-**ORCID:** https://orcid.org/0009-0001-2177-0042
-
-**year:** 2025
-
-**DOI (Zenodo):** https://doi.org/10.5281/zenodo.17778738  
-**Zenodo record:** https://zenodo.org/records/17778738
-
-**Summary post(Medium):** https://medium.com/@ssp2025.research/human-directed-human-ai-co-evolution-through-externalized-cognitive-continuity-succ-445f77e6b37d
-
-**LinkedIn:** https://kr.linkedin.com/in/seungyun-song-735395393
-
-This repository serves as a reference companion to the paper.
-Status: Code will be added in future updates.
-
-“Operational framework with a reference implementation”
 
 ## Abstract
 Human-directed human–AI co-evolution enabled by externalized cognitive continuity (logs, rules, and structured re-injection), forming a practical time-axis for iterative collaboration.

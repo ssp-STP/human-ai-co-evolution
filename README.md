@@ -64,7 +64,9 @@ without relying on internal model state or fine-tuning.
 
 
 ## Abstract
-Human-directed human–AI co-evolution enabled by externalized cognitive continuity (logs, rules, and structured re-injection), forming a practical time-axis for iterative collaboration.
+Human-directed human–AI co-evolution enabled by externalized cognitive continuity
+(logs, rules, and structured re-injection), providing a practical time-axis
+for iterative, human-centered collaboration.
 
 ## Core of the paper
 

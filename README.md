@@ -1,9 +1,10 @@
 # Human-Directed Human–AI Co-Evolution through Externalized Cognitive Continuity (2025)
 
-**Author:** Seungyun Song (2025)  
-**ORCID:** https://orcid.org/0009-0001-2177-0042  
-**year:** 2025  
 **DOI (Zenodo):** https://doi.org/10.5281/zenodo.17778738  
+**Author:** Seungyun Song
+**year:** 2025
+
+**ORCID:** https://orcid.org/0009-0001-2177-0042  
 
 **Summary post(Medium):** https://medium.com/@ssp2025.research/human-directed-human-ai-co-evolution-through-externalized-cognitive-continuity-succ-445f77e6b37d
 
@@ -15,8 +16,6 @@ Status: Reference materials are available; implementation artifacts will be adde
 > _“Operational framework with a reference implementation”_
 
 SUCC–ECC is a system-level architecture for persistent human–AI co-evolution through externalized cognitive continuity, where SUCC defines the human-centered framework and ECC provides operational continuity via externally stored, human-controlled cognitive artifacts.
-
-This repository accompanies the paper:
 
 > **Note:** This repository does not introduce a new conceptual framework
 > separate from the paper. All terminology and system boundaries are

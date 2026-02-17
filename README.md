@@ -15,7 +15,6 @@ Official Zenodo DOI: https://doi.org/10.5281/zenodo.17778738
 
 **Author:** Seungyun Song  
 **year:** 2025  
-**DOI (Zenodo):** https://doi.org/10.5281/zenodo.17778738
 
 **Links**  
 ORCID: https://orcid.org/0009-0001-2177-0042  

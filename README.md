@@ -1,5 +1,12 @@
 # Human-Directed Human–AI Co-Evolution through Externalized Cognitive Continuity (2025)
 
+## Externalized Cognitive Continuity (ECC)
+
+## Syntropic Unified Cognitive Continuum (SUCC)
+
+Proposed by Seungyun Song (2025)  
+Official Zenodo DOI: https://doi.org/10.5281/zenodo.17778738
+
 **Paper DOI**
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17778738.svg)](https://doi.org/10.5281/zenodo.17778738)
 

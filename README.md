@@ -17,7 +17,8 @@ Official Zenodo DOI: https://doi.org/10.5281/zenodo.17778738
 **year:** 2025  
 
 **Links**  
-ORCID: https://orcid.org/0009-0001-2177-0042  
+ORCID: https://orcid.org/0009-0001-2177-0042
+
 LinkedIn: https://kr.linkedin.com/in/seungyun-song-735395393  
 
 Summary post(Medium): https://medium.com/@ssp2025.research/human-directed-human-ai-co-evolution-through-externalized-cognitive-continuity-succ-445f77e6b37d

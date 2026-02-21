@@ -149,6 +149,7 @@ This GitHub repository is archived and versioned via Zenodo.
 
 This DOI refers to the **software and documentation in this repository**,  
 not the paper PDF.
+The paper is hosted on Zenodo and is not part of this repository’s licensed materials.
 
 The paper PDF is licensed under CC BY-NC-ND 4.0.
 

@@ -4,6 +4,24 @@
 
 ## Syntropic Unified Cognitive Continuum (SUCC)
 
+### What problem does this solve?
+
+Modern LLM systems reset cognitive state between sessions, breaking continuity of human-directed workflows.
+SUCC–ECC is a system-level architecture for persistent,
+human-directed cognitive continuity using externally stored,
+reproducible memory artifacts.
+
+This is not long-term memory tuning.
+It is a structured operational continuity framework.
+
+### Key Contributions
+- Defines SUCC: governance and roles for human-AI co-evolution
+- Defines ECC: operationalized external memory layer
+- Demonstrates persistent continuity without internal model modification
+
+### Typical use case:  
+Long-term human-AI collaboration across iterative research, writing, and system design cycles.
+
 Proposed by Seungyun Song (2025)  
 Official Zenodo DOI: https://doi.org/10.5281/zenodo.17778738
 

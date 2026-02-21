@@ -142,7 +142,7 @@ This GitHub repository is archived and versioned via Zenodo.
   https://doi.org/10.5281/zenodo.18586738
 
 - Versioned releases:
-
+  - v1.0.3: https://doi.org/10.5281/zenodo.18722913
   - v1.0.2: https://doi.org/10.5281/zenodo.18592033
   - v1.0.1: https://doi.org/10.5281/zenodo.18589688
   - v1.0.0: https://doi.org/10.5281/zenodo.18586739 

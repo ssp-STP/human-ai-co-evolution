@@ -11,8 +11,7 @@ SUCC–ECC is a system-level architecture for persistent,
 human-directed cognitive continuity using externally stored,
 reproducible memory artifacts.
 
-This is not long-term memory tuning.
-It is a structured operational continuity framework.
+This is not model-level memory tuning (no weight updates or parameter modification). It is a structured operational continuity framework using externally stored, reproducible memory artifacts.
 
 ### Key Contributions
 - Defines SUCC: governance and roles for human-AI co-evolution

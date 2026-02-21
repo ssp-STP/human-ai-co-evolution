@@ -150,7 +150,10 @@ This GitHub repository is archived and versioned via Zenodo.
 This DOI refers to the **software and documentation in this repository**,  
 not the paper PDF.
 
-Reuse of both the paper and the repository snapshot is subject to the CC BY-NC-ND 4.0 license.
+The paper PDF is licensed under CC BY-NC-ND 4.0.
+
+The contents of this repository (framework documentation, diagrams, and related materials) are licensed under CC BY-NC 4.0.
+
 
 ### BibTeX
 ```bibtex

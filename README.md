@@ -28,7 +28,7 @@ Long-term human-AI collaboration across iterative research, writing, and system 
 **Year:** 2025  
 **Status:** Independent research
 
-**Paper DOI:** https://doi.org/10.5281/zenodo.17778738
+**Paper DOI:** https://doi.org/10.5281/zenodo.17778738  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17778738.svg)](https://doi.org/10.5281/zenodo.17778738)
 
 **Software / Repository DOI:** https://doi.org/10.5281/zenodo.18586738  

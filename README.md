@@ -22,27 +22,30 @@ It is a structured operational continuity framework.
 ### Typical use case:  
 Long-term human-AI collaboration across iterative research, writing, and system design cycles.
 
-Proposed by Seungyun Song (2025)  
-Official Zenodo DOI: https://doi.org/10.5281/zenodo.17778738
-
-**Paper DOI**
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17778738.svg)](https://doi.org/10.5281/zenodo.17778738)
-
-**Software / Repository DOI**
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18586738.svg)](https://doi.org/10.5281/zenodo.18586738)
+### Metadata
 
 **Author:** Seungyun Song  
-**year:** 2025  
+**Year:** 2025  
+**Status:** Independent research
 
-**Links**  
+**Paper DOI:** https://doi.org/10.5281/zenodo.17778738
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17778738.svg)](https://doi.org/10.5281/zenodo.17778738)
+
+**Software / Repository DOI:** https://doi.org/10.5281/zenodo.18586738  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18586738.svg)](https://doi.org/10.5281/zenodo.18586738)
+
+### Links
 ORCID: https://orcid.org/0009-0001-2177-0042
 
 LinkedIn: https://kr.linkedin.com/in/seungyun-song-735395393  
 
 Summary post(Medium): https://medium.com/@ssp2025.research/human-directed-human-ai-co-evolution-through-externalized-cognitive-continuity-succ-445f77e6b37d
 
+## Repository Overview
 This repository serves as a reference companion to the paper.  
 Status: Reference materials are available; implementation artifacts will be added in future updates.
+
+## Framework Summary
 
 > _“Operational framework with a reference implementation”_
 

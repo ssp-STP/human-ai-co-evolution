@@ -145,16 +145,28 @@ This GitHub repository is archived and versioned via Zenodo.
   - v1.0.3: https://doi.org/10.5281/zenodo.18722913
   - v1.0.2: https://doi.org/10.5281/zenodo.18592033
   - v1.0.1: https://doi.org/10.5281/zenodo.18589688
-  - v1.0.0: https://doi.org/10.5281/zenodo.18586739 
+  - v1.0.0: https://doi.org/10.5281/zenodo.18586739
 
-This DOI refers to the **software and documentation in this repository**,  
-not the paper PDF.
 
-The paper is hosted on Zenodo and is not part of this repository’s licensed materials.
+## 🔐 License
 
-The paper PDF is licensed under CC BY-NC-ND 4.0.
+This repository contains two distinct components with different licenses:
 
-The contents of this repository (framework documentation, diagrams, and related materials) are licensed under CC BY-NC 4.0.
+### 📄 Paper (PDF)
+
+The paper is hosted on Zenodo and is **not part of this repository’s contents**.
+
+- Licensed under **CC BY-NC-ND 4.0**
+- https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+### 💻 Repository Contents
+
+All materials in this GitHub repository (framework documentation, architectural diagrams, and related materials) are licensed under:
+
+- **CC BY-NC 4.0**
+- https://creativecommons.org/licenses/by-nc/4.0/
+
+If referencing this work academically, please cite the Zenodo DOI provided above.
 
 
 ### BibTeX

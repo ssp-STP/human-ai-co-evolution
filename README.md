@@ -148,7 +148,8 @@ This GitHub repository is archived and versioned via Zenodo.
   - v1.0.0: https://doi.org/10.5281/zenodo.18586739 
 
 This DOI refers to the **software and documentation in this repository**,  
-not the paper PDF.  
+not the paper PDF.
+
 The paper is hosted on Zenodo and is not part of this repository’s licensed materials.
 
 The paper PDF is licensed under CC BY-NC-ND 4.0.
